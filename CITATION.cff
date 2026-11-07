@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the paper."
+title: "When Do Monte Carlo Mean Estimates and Confidence Intervals Fail Under Heavy Tails?"
+authors:
+  - family-names: Goel
+    given-names: Manan
+type: software
+keywords:
+  - Monte Carlo simulation
+  - heavy-tailed distributions
+  - median of means
+  - confidence interval coverage
